@@ -1,4 +1,2 @@
-# Practice for interview
-#I dont know what I am doing
-#please help
-#ahhhhhh
+# Practice for interview 
+From now on I will edit Readme in this feature branch
